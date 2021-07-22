@@ -1,7 +1,8 @@
 # Hello-World
 <html>
-  <head>My world</head>
-  <title>My first program</title>
+  <head>
+      <title>My first program</title>
+   </head>
   <body>
     <p>Welome to Web</P>
   </body>
